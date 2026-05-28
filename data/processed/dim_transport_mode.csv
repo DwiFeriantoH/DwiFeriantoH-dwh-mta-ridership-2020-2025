@@ -1,0 +1,8 @@
+mode_id,transport_mode,value_type
+1,Access-A-Ride,Scheduled Trips
+2,Bridges and Tunnels,Total Traffic
+3,Buses,Estimated Ridership
+4,LIRR,Estimated Ridership
+5,Metro-North,Estimated Ridership
+6,Staten Island Railway,Estimated Ridership
+7,Subways,Estimated Ridership

@@ -1,0 +1,11 @@
+aspek,nilai
+Jumlah baris data awal,1776
+Jumlah kolom data awal,15
+Tanggal awal,2020-03-01 00:00:00
+Tanggal akhir,2025-01-09 00:00:00
+Jumlah moda transportasi,7
+Jumlah baris data long,12432
+Jumlah baris dim_date,1776
+Jumlah baris dim_transport_mode,7
+Jumlah baris fact_daily_ridership,12432
+Jumlah missing value data long,0
